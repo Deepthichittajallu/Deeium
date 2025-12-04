@@ -106,7 +106,7 @@ It ensures that tokens are compatible with:
 ## 🚀 Deployment Steps (Remix IDE)
 
 1.  Open https://remix.ethereum.org
-2.  Create file dem.sol
+2.  Create file dim.sol
 3.  Paste the contract
 4.  Compile with version 0.8.30
 5.  Deploy using Remix VM or MetaMask
