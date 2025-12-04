@@ -72,14 +72,14 @@ defines a **blueprint** that ensures all tokens interact properly with:
 
 ## 📦 Contract File
 
-Stored in dem.sol
+Stored in dim.sol
 
 ------------------------------------------------------------------------
 
 ## 🚀 Deployment Instructions (Remix IDE)
 
 1.  Visit https://remix.ethereum.org
-2.  Create file dem.sol
+2.  Create file dim.sol
 3.  Paste the contract code
 4.  Select compiler version 0.8.30
 5.  Compile the contract
