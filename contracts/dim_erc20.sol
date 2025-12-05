@@ -4,7 +4,7 @@
 pragma solidity ^0.8.30;
 // Specifies the Solidity compiler version (0.8.30 or compatible)
 
-contract nix {
+contract dim {
     // Developer's address
     // All tokens are initially minted to this address during deployment
     address public _dev = 0x3de0F7C0e6C2a91b762df55C057b6C9882c4aec7;
